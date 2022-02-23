@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of new songs with a thorow-bass to each song, for the harpsichord, theorbo, lute, or spinett / sett to musick by Mr. Gillier.</title>
+            <author>Gillier, Jean Claude, 1667-1737.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33821</idno>
+            <idno type="STC">Wing C5148</idno>
+            <idno type="STC">ESTC R224251</idno>
+            <idno type="EEBO-CITATION">09981614</idno>
+            <idno type="OCLC">ocm 09981614</idno>
+            <idno type="VID">44450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44450)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1328:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of new songs with a thorow-bass to each song, for the harpsichord, theorbo, lute, or spinett / sett to musick by Mr. Gillier.</title>
+                  <author>Gillier, Jean Claude, 1667-1737.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Heptinstall for Henry Playford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44450:1"/>
+            <p>A COLLECTION OF New SONGS: With a Thorow-Baſs to each SONG, for the <hi>Harpſichord, Theorbo, Lute,</hi> or <hi>Spinett.</hi>
+            </p>
+            <p>Sett to Muſick by Mr. <hi>Gillier.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Heptinſtall,</hi> for <hi>Henry Playford</hi> at his Shop in the <hi>Temple-Change, Fleetſtreet.</hi> 1698.</p>
+            <p>Where may be had the Propoſals of the Muſick-Lottery, as alſo Dr. <hi>John Blow</hi>'s New <hi>Harpſichord-Book.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44450:2"/>
+            <head>To my Honoured Friend, Cap<hi rend="sup">t.</hi> WORTLEY.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>HAving your Opinion and Approba<g ref="char:EOLhyphen"/>tion of the Compoſing Theſe my Firſt <hi>SONGS</hi> in <hi>Engliſh;</hi> and knowing of your being a Judge, do think my ſelf Ob<g ref="char:EOLhyphen"/>liged to Dedicate them to you, hoping the favour of your Acceptance, which will be an Honour to,</p>
+            <closer>
+               <salute>Sir, </salute> 
+               <signed>Your moſt Humble Servant, <hi>GILLIER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="1" facs="tcp:44450:3"/>
+            <head>A New SONG Sung by Mr. <hi>Pate,</hi> Sett by Mr. <hi>Gillier.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> OH Lovely, Love╌ly; Oh Love╌ly, Lovely <hi>Sy╌ren</hi> now give o're, for I too much was Char╌m'd, was Charm'd be╌fore; ſuch ſof╌t Me╌lodious ſounds as theſe do kill with Tranſ╌port while they pleaſe: Such ſweetneſs in each Strain ap╌pears, appears, ſuch ſweetneſs in each Strain appears th'are
+<pb n="2" facs="tcp:44450:4"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> too di╌vine for mor╌tal Ears: They wound with plea╌ſure and in╌ſpire a╌maze╌ment in the heav'nly Quire, they wound with plea╌ſure and in╌ſpire, in╌ſpire a╌maze╌ment in the heav'nly Quire; In╌ſpire, in╌ſpire a╌maze╌ment in the heav'nly Quire. See, ſee, ſee, ſee, ſee, ſee
+<pb n="3" facs="tcp:44450:4"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Angels crow╌d to hear you Sing, ſee Angels crow╌d to hear you Sing, to hear you Sin╌g, to hear you Sing; Charm'd when you touch, when you touch each trem╌bling String, and know not which they'd ra╌ther do, fly, fly,
+<pb n="4" facs="tcp:44450:5"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> fly to their throne, or ſtay with you, fly, fly, fly to their throne or ſtay with you. See, ſee, you. </p>
+         </div>
+         <div type="song">
+            <head>A SONG Sett by Mr. <hi>Gillier.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> LOve, Love╌'s a blind paſſion a lan╌guiſhing fol╌ly; Love, love's a blind paſſion a lan╌guiſhing fol╌ly, chills all our brisk hours with a dull me╌lan╌cholly, it Jol╌li╌ty damps, and en╌ra╌ges de╌ſpair, and en╌ra╌ges de╌ſpair; in the Spring of our years brings, brings a winter, a
+<pb n="5" facs="tcp:44450:5"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> winter of care, care; then let us throw off the fond trifling Toy, trifling Toy, the paſſion is childiſh, and <hi>Cupid</hi>'s a Boy, a Boy, a Boy, and <hi>Cupid</hi>'s a Boy: Then let us throw off the fond trifling Toy, the paſſion is Childiſh and <hi>Cupid</hi>'s a Boy, and <hi>Cupid</hi>'s a Boy; bring, bring to my Arms a more So╌lid, a So╌li╌der Joy; bring, bring to my Arms a more So╌lid, a So╌li╌der Joy, a So╌li╌der Joy. </p>
+         </div>
+         <div type="song">
+            <pb n="6" facs="tcp:44450:6"/>
+            <head>A New Song Sett by Mr. <hi>Gillier.</hi> Sung by Mr. <hi>Leveridge.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> PRepare, prepare, prepare, prepare for brisk A╌lar╌ms, <hi>Ar╌mi╌da</hi> hath a Thouſand, hath a Thou╌ſand, a Thouſand Charms; prepare, pre╌pare, prepare, prepare for brisk Alarms, <hi>Ar╌mi╌da</hi> hath a Thouſand, hath a Thou╌ſand, a Thouſand Charms; Ungarded Hearts to Arms, to Arms, to Arms, to Arms, to Arms, to Arms, to Arms, to Arms, to Arms, to Arms, to
+<pb n="7" facs="tcp:44450:6"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Arms, to Arms, to Arms, to Arms, to Arms, to Arms, to Arms. Where e're ſhe comes ſhe Lau╌rel gaines, and o're Love's bound╌leſs Empire reigns; and o'r╌e Love's bound╌leſs Empire reigns: her Wit's di╌vine, her look ſe╌rene, be╌witching, be╌witching, 'tis her gracefull Mion; Her Voice Enchants, her Smile inſpires with plea╌ſant thoughts, and ſo╌ft de╌ſire:
+<pb n="8" facs="tcp:44450:7"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> her Voice Enchants, her Smile inſpires with plea╌ſant thoughts, and ſo╌ft de╌ſire, and ſo╌ft de╌ſire, and ſo╌ft de╌ſire; no force is proof a╌gainſt her Darts, Rea╌ſon too weak will prove; ſhea's Skill in all her ſub╌tle Arts of Empire and of Love: fl╌y, fl╌y, fl╌y, re╌ſiſt╌leſs
+<pb n="9" facs="tcp:44450:8"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> are her Charms, fly, fly, fl╌y, re╌ſiſt╌leſs, re╌ſiſt╌leſs are her Charms; in vain, in — vain, in vain, in vain you take up Arms; in vain, in — vain, in vain, in vain you take up Arms; in vain, in vain, in vain, in vain you take up Arms; in vain, in vain you take up Arms; in vain, in vain you take up Arms. </p>
+         </div>
+         <div type="song">
+            <pb n="10" facs="tcp:44450:9"/>
+            <head>A New Song Sett by Mr. <hi>Gillier.</hi> Sung by Mr. <hi>Freeman.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> THe Lott is Caſt, I muſt no more, my Dear <hi>Joſ╌ſi╌nian</hi>'s Eyes a╌dore; my dear, dear <hi>Joſ╌ſi╌nian</hi>'s Eyes a╌dore, no more, no more <hi>Joſ╌ſi╌nian</hi> caſt your Charms, 'tis Honour bids me ſhun thy Arms; no more, no more <hi>Joſ╌ſi╌nian</hi> caſt, caſt, ca╌ſt your
+<pb n="11" facs="tcp:44450:9"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Charms, 'tis Honour bids me ſhun thy Arms; Oh! cru╌el God to throw — thy Dart, when he and I muſt live a╌part, when he and I muſt live a╌part, part: my Vows a╌las I make in vain, with╌in my Heart <hi>Joſ╌ſi╌nian</hi> reigns, our mingl╌'d ſigh╌s no Jo╌y can
+<pb n="12" facs="tcp:44450:10"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> find, our mingl'd ſighs no Jo╌y can find; we live yet priſoners of the mind, through Prieſt╌craft bound our Souls are free, and they may love immor╌ tal╌ly, im╌mor╌tal╌ly, and they may love immor╌tal╌ly, im╌mor╌tal╌ly. </p>
+         </div>
+         <div type="song">
+            <pb n="13" facs="tcp:44450:10"/>
+            <head>A SONG Sett by Mr. <hi>Gillier.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> OH! why falſe man did'ſt thou my heart be╌tray in ev╌'ry part, in ev╌'ry way; in ev╌'ry part, in ev╌'ry way, in ev'ry part, in ev╌'ry way? Oh! why falſe man, falſe man di╌d'ſt thou my heart be╌tray? Tell me, tell me thou more than man, thou ve╌ry Devil, what thou ſaw'ſt in my poor heart of e╌vil? Tell me what thou ſaw'ſt, what thou ſaw'ſt in my poor heart, my
+<pb n="14" facs="tcp:44450:11"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> poor heart of e╌vil? Tell me, tell me thou more than man, thou ve╌ry Devil; what thou ſaw'ſt, what thou ſaw'ſt in my poor heart, my poor heart of e╌vil? what thou ſaw'ſt, what thou ſaw'ſt in my poor heart of e╌vil? Was it not all pure, in╌nocent and juſt? was it not, was it not all pure, in╌no╌cent and juſt? did I not, did I not in thy dear Arms, in thy dear Arms whol╌ly truſt? was it not, was it not all pure in╌no╌cent
+<pb n="15" facs="tcp:44450:11"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> and juſt? did I not, did I not in thy dear Arms, in thy dear Arms whol╌ly truſt? did I not, did I not in thy dear Arms, in thy dear Arms whol╌ly truſt, in thy dear Arms whol╌ly truſt? </p>
+         </div>
+         <div type="song">
+            <head>A New Song Sett by Mr. <hi>Gillier.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> LOng have I lov'd but all in vain, long, long, long have I lov'd, but all in vain; the Nymph will ne're be kind, will ne're be kind, ſhe ſtill in╌ſults when I com╌plai╌n, no
+<pb n="16" facs="tcp:44450:12"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Tears can change her mind, mind: All, all I can wiſh, is on╌ly this, where e're, where e're ſhe lo╌ves, that ſhe may ne╌ver, ne╌ver, never, ne╌ver, ne╌ver taſt that Bliſs which ſhe de╌nies to me; ne╌ver, ne╌ver, never, ne╌ver taft that Bliſs, which ſhe de╌nies to me. </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
